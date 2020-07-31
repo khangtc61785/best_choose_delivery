@@ -1,0 +1,33 @@
+{
+    "hochiminh": [
+        {
+            "name": "D",
+            "product": {
+                "book": 30,
+                "pen": 70
+            }
+        }
+    ],
+    "hanoi": [
+        {
+            "name": "A",
+            "product": {
+                "book": 1
+            }
+        },
+        {
+            "name": "C",
+            "product": {
+                "book": 10,
+                "pen": 7
+            }
+        },
+        {
+            "name": "B",
+            "product": {
+                "book": 3,
+                "pen": 3
+            }
+        }
+    ]
+}

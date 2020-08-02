@@ -1,11 +1,10 @@
 # best_chosoe_delivery
 ## Description
 Which is the best warehouse to delivery product to customer?
-A product is stored at many warehouses. Each warehouse has an address. The quantity of
-product of each warehouse is different. An order contains many order line. Each order line
-has a product with quantity. An order also has the address information of customer.
-When customer places an order, system has to choose a set of warehouse to delivery all
-product. The warehouses are chosen by the some conditions that are prioritized by:
+
+A product is stored at many warehouses. Each warehouse has an address. The quantity of product of each warehouse is different. An order contains many order line. Each order line has a product with quantity. An order also has the address information of customer.
+
+When customer places an order, system has to choose a set of warehouse to delivery all product. The warehouses are chosen by the some conditions that are prioritized by:
 * The first: the warehouse has address at the same city with customer.
 * The second: the warehouse has all product of order
 * The third: the warehouse has the largest quantity of a product. Exp: iPhone is stored in
